@@ -1,8 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Eric Nguyen. We have an AI enthusiast here!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Eric Nguyen. We have an AI enthusiast here!" src="./Hello.png" /></a></p>
 
 <br />
 
-I'm Huy from Viet Nam :vietnam:
+I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
 
 **About me**
 
