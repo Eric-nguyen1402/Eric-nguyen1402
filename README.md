@@ -8,10 +8,6 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
 
 - 💼 ERASMUS MUNDUS JOINT MASTER in Intelligent Field Robotic Systems at Universitat de Girona (UdG, Spain), the Eötvös Loránd University (ELTE, Hungary).
 
-- 📈 
-
-- ❤️ I love reading
-
 - 💬 Ask me about anything [here](https://github.com/Eric-nguyen1402/Eric-nguyen1402/issues)
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
