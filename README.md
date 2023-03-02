@@ -2,7 +2,7 @@
 
 <br />
 
-I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.
+I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning, Robotics(ROS) and Computer Vision. Machine Learning.
 
 **About me**
 
