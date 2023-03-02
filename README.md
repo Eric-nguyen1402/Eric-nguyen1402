@@ -26,6 +26,34 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=hmi_touch_screen_project&theme=merko" />
 </a>
 
+<a href="https://github.com/Eric-nguyen1402/Python_Control_Robotic_Boat">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Python_Control_Robotic_Boat&theme=dracula" />
+</a>    
+
+<a href="https://github.com/Eric-nguyen1402/Python_Control_Lawnmower">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Python_Control_Lawnmower&theme=onedark" />
+</a>
+<a href="https://github.com/Eric-nguyen1402/Raspberry-pi-NeoPixels">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Raspberry-pi-NeoPixels&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/Eric-nguyen1402/Arduino_Ultrasonic">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Arduino_Ultrasonic&theme=cobalt" />
+</a>
+
+<a href="https://github.com/Eric-nguyen1402/Arduino_BNO055">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Arduino_BNO055&theme=synthwave" />
+</a>
+
+<a href="https://github.com/Eric-nguyen1402/W5500-dspic30f4011">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=W5500-dspic30f4011&theme=highcontrast" />
+</a>
 <a href="https://www.linkedin.com/in/hoang-huy-eric-nguyen-6b0653199/">
   <img align="right" alt="Eric Nguyen | LinkedIn" width="42px" src="https://raw.githubusercontent.com/Eric-nguyen1402/Eric-nguyen1402/master/icons8-linkedin.svg" />
 </a>
