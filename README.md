@@ -9,6 +9,7 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
 - 💼 ERASMUS MUNDUS JOINT MASTER in Intelligent Field Robotic Systems at Universitat de Girona (UdG, Spain), the Eötvös Loránd University (ELTE, Hungary).
 
 - 💬 Ask me about anything [here](https://github.com/Eric-nguyen1402/Eric-nguyen1402/issues)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hoang-huy-eric-nguyen-6b0653199/)
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>   
@@ -54,7 +55,5 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=W5500-dspic30f4011&theme=highcontrast" />
 </a>
-<a href="https://www.linkedin.com/in/hoang-huy-eric-nguyen-6b0653199/">
-  <img align="right" alt="Eric Nguyen | LinkedIn" width="42px" src="https://raw.githubusercontent.com/Eric-nguyen1402/Eric-nguyen1402/master/icons8-linkedin.svg" />
-</a>
+
 
