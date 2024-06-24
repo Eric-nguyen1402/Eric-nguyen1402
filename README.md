@@ -20,17 +20,17 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
 
 <a href="https://github.com/Eric-nguyen1402/3D_Lidar_Graph_Slam">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=image_project&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=3D_Lidar_Graph_Slam&theme=radical" />
 </a>    
 
 <a href="https://github.com/Eric-nguyen1402/turtlebot3_multi_robot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=hmi_touch_screen_project&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=turtlebot3_multi_robot&theme=merko" />
 </a>
 
 <a href="https://github.com/Eric-nguyen1402/image_project">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Python_Control_Robotic_Boat&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=image_project&theme=dracula" />
 </a>    
 
 <a href="https://github.com/Eric-nguyen1402/Python_Control_Lawnmower">
