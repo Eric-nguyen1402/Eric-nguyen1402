@@ -18,9 +18,9 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
 <br />
 <br />
 
-<a href="https://github.com/Eric-nguyen1402/3D_Lidar_Graph_Slam">
+<a href="https://github.com/Eric-nguyen1402/closedloop.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=3D_Lidar_Graph_Slam&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Dynamic Robotic Grasping: A Combination of Real-Time Trajectory Planning and ML-Based Novel Object Pose Detection&theme=radical" />
 </a>    
 
 <a href="https://github.com/Eric-nguyen1402/turtlebot3_multi_robot">
