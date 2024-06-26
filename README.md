@@ -18,43 +18,38 @@ I'm Huy from Viet Nam :vietnam: .I am an M.Sc. in Artificial Intelligence and Ro
 <br />
 <br />
 
+<a href="https://github.com/Eric-nguyen1402/Language-driven-closed-loop-grasping">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Language-driven-closed-loop-grasping&theme=synthwave" />
+</a>
+
 <a href="https://github.com/Eric-nguyen1402/closedloop.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Dynamic Robotic Grasping: A Combination of Real-Time Trajectory Planning and ML-Based Novel Object Pose Detection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=closedloop.github.io&theme=radical" />
 </a>    
+
+<a href="https://github.com/Eric-nguyen1402/autonomous-navigation.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=autonomous-navigation.github.io&theme=dracula" />
+</a>    
+
+<a href="https://github.com/Eric-nguyen1402/realtime-2d-pose-estimation.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=realtime-2d-pose-estimation.github.io&theme=onedark" />
+</a>
+<a href="https://github.com/Eric-nguyen1402/kinematic-control-system.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=kinematic-control-system.github.io&theme=gruvbox" />
+</a>    
+
+<a href="https://github.com/Eric-nguyen1402/pose-based-EKF-slam.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=pose-based-EKF-slam.github.io&theme=cobalt" />
+</a>
 
 <a href="https://github.com/Eric-nguyen1402/turtlebot3_multi_robot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=turtlebot3_multi_robot&theme=merko" />
-</a>
-
-<a href="https://github.com/Eric-nguyen1402/image_project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=image_project&theme=dracula" />
-</a>    
-
-<a href="https://github.com/Eric-nguyen1402/Python_Control_Lawnmower">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Python_Control_Lawnmower&theme=onedark" />
-</a>
-<a href="https://github.com/Eric-nguyen1402/Raspberry-pi-NeoPixels">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Raspberry-pi-NeoPixels&theme=gruvbox" />
-</a>    
-
-<a href="https://github.com/Eric-nguyen1402/Arduino_Ultrasonic">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Arduino_Ultrasonic&theme=cobalt" />
-</a>
-
-<a href="https://github.com/Eric-nguyen1402/Arduino_BNO055">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=Arduino_BNO055&theme=synthwave" />
-</a>
-
-<a href="https://github.com/Eric-nguyen1402/W5500-dspic30f4011">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Eric-nguyen1402&repo=W5500-dspic30f4011&theme=highcontrast" />
 </a>
 
 
