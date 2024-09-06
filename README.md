@@ -2,7 +2,7 @@
 
 <br />
 
-I'm Huy from Viet Nam :vietnam:.I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
+I'm Huy(Eric) from Viet Nam .I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
 
 **About me**
 - A Junior Scientist at AIT(Vienna).
