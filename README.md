@@ -2,10 +2,10 @@
 
 <br />
 
-I'm Huy from Viet Nam :vietnam:.I am a Junior Research Engineer who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
+I'm Huy from Viet Nam :vietnam:.I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
 
 **About me**
-- A Junior Research Engineer at AIT(Vienna).
+- A Junior Scientist at AIT(Vienna).
   
 - 💼 ERASMUS MUNDUS JOINT MASTER in Intelligent Field Robotic Systems at Universitat de Girona (UdG, Spain), the Eötvös Loránd University (ELTE, Hungary).
 
