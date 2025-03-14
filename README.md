@@ -5,7 +5,7 @@
 I'm Huy(Eric) from Viet Nam .I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
 
 **About me**
-- A Junior Scientist at AIT Austrian Institute of Technology.
+- Junior Scientist at AIT Austrian Institute of Technology.
 - PhD student at TU Wien.
 - 💼 ERASMUS MUNDUS JOINT MASTER in Intelligent Field Robotic Systems at Universitat de Girona (UdG, Spain), the Eötvös Loránd University (ELTE, Hungary).
 
