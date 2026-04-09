@@ -2,11 +2,10 @@
 
 <br />
 
-I'm Huy(Eric) from Viet Nam .I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics(ROS), and Computer Vision.
+I'm Huy(Eric) from Viet Nam .I am a Junior Scientist who is interested in the following topics: Deep Learning, Robotics, VLMs and Computer Vision.
 
 **About me**
-- Junior Scientist at AIT Austrian Institute of Technology.
-- PhD student at TU Wien.
+- PhD student at AIT Austrian Institute of Technology.
 - 💼 ERASMUS MUNDUS JOINT MASTER in Intelligent Field Robotic Systems at Universitat de Girona (UdG, Spain), the Eötvös Loránd University (ELTE, Hungary).
 
 - 💬 Ask me about anything [here](https://github.com/Eric-nguyen1402/Eric-nguyen1402/issues)
